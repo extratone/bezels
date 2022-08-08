@@ -1,24 +1,92 @@
-![Git Folder](/gitfolder.png)
+# Apple Design Resources
+Updated `08082022-153819`
 
-# David Blue's GitHub Repository Template
-- [WTF](https://davidblue.wtf/drafts/745BCB94-CE46-4509-A7E0-7566F8DDDF23.html)
+- [**GitHub Repository**](https://github.com/extratone/bezels)
+- [URL List Gist](https://gist.github.com/extratone/e5b4d2445a5a268d86365101bb806e62)
+- [Apple Design Resources Shortcut](drafts://open?uuid=6853BE0D-4338-49CD-919C-DF3CEF6654DC)
+- [WTF](https://davidblue.wtf/drafts/50C5B79E-367C-4998-A6C9-4A12E8F5918C.html)
+- [Things](things:///show?id=NY3uq3GZRaPQrtwRRnJnGf)
 
-***Latte*** is a GitHub Repository Template created specifically for use by [David Blue](/DavidBlue.vcf) (that’s me, howdy,) but open to any and all use/misuse/defilement as per [its license](/LICENSE.md).
+---
 
-To be honest, I’m almost positive the name was really clever but I cannot for the life of me remember what the fuck I meant.
+![SF Symbols 3 Preview](https://github.com/extratone/bezels/raw/main/.background_5.png)
 
-At least as of...
+An attempt to share Apple's public "[**Design Resources**](https://developer.apple.com/design/resources)" as usable files for those of us without Macs.
 
-04092022-143149
+## iCloud Drive Shared Files
 
-### Contact me for whatever reason
+- [Unextracted disc (dmg) images in a single .zip file](https://www.icloud.com/iclouddrive/083uL64wNGBwbKUsoyqCXJRIg#bezels)
 
-- [Contact Card](https://davidblue.wtf/db.vcf)
-- [Telegram](https://t.me/extratone)
-- [Email](mailto:davidblue@extratone.com) 
-- [Twitter](https://twitter.com/NeoYokel)
-- [Mastodon](https://mastodon.social/@DavidBlue)
-- [Discord](https://discord.gg/0b9KQUKP858b0iZF)
-- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
+---
 
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+## URLS
+
+<script src="https://gist.github.com/extratone/e5b4d2445a5a268d86365101bb806e62.js"></script>
+
+- [/design/resources/download/Bezel-Apple-TV.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-Apple-TV.dmg)
+- [/design/resources/download/Bezel-Apple-Watch-Series-6.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-Apple-Watch-Series-6.dmg)
+- [/design/resources/download/Bezel-Apple-Watch-Series-7.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-Apple-Watch-Series-7.dmg)
+- [/design/resources/download/Bezel-iMac24.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iMac24.dmg)
+- [/design/resources/download/Bezel-iMac27.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iMac27.dmg)
+- [/design/resources/download/Bezel-iPad-Air.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPad-Air.dmg)
+- [/design/resources/download/Bezel-iPad-mini.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPad-mini.dmg)
+- [/design/resources/download/Bezel-iPad-Pro.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPad-Pro.dmg)
+- [/design/resources/download/Bezel-iPad.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPad.dmg)
+- [/design/resources/download/Bezel-iPhone-11.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPhone-11.dmg)
+- [/design/resources/download/Bezel-iPhone-12-Pro-iPad-Pro-12.9.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPhone-12-Pro-iPad-Pro-12.9.dmg)
+- [/design/resources/download/Bezel-iPhone-12.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPhone-12.dmg)
+- [/design/resources/download/Bezel-iPhone-13.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-iPhone-13.dmg)
+- [/design/resources/download/Bezel-MacBook-Air-13-4th-Gen.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-MacBook-Air-13-4th-Gen.dmg)
+- [/design/resources/download/Bezel-MacBook-Pro-4th-Gen-Touch-Bar.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-MacBook-Pro-4th-Gen-Touch-Bar.dmg)
+- [/design/resources/download/Bezel-MacBook-Pro-4th-Gen.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-MacBook-Pro-4th-Gen.dmg)
+- [/design/resources/download/Bezel-MacBook-Pro-5th-Gen.dmg](https://devimages-cdn.apple.com/design/resources/download/Bezel-MacBook-Pro-5th-Gen.dmg)
+- [/design/resources/download/Glyph-Add-Apple-Watch-Face.dmg](https://devimages-cdn.apple.com/design/resources/download/Glyph-Add-Apple-Watch-Face.dmg)
+- [/design/resources/download/Glyph-AirPlay.dmg](https://devimages-cdn.apple.com/design/resources/download/Glyph-AirPlay.dmg)
+- [/design/resources/download/Glyph-ARKit.dmg](https://devimages-cdn.apple.com/design/resources/download/Glyph-ARKit.dmg)
+- [/design/resources/download/iOS-13-Keynote.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-13-Keynote.dmg)
+- [/design/resources/download/iOS-14-Design-Templates-Photoshop.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-14-Design-Templates-Photoshop.dmg)
+- [/design/resources/download/iOS-15-Design-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-15-Design-Templates-Sketch.dmg)
+- [/design/resources/download/iOS-15-Design-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-15-Design-Templates-XD.dmg)
+- [/design/resources/download/iOS-15-Production-Templates-Photoshop.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-15-Production-Templates-Photoshop.dmg)
+- [/design/resources/download/iOS-15-Production-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-15-Production-Templates-Sketch.dmg)
+- [/design/resources/download/iOS-15-Production-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/iOS-15-Production-Templates-XD.dmg)
+- [/design/resources/download/Keynote-Live-Video-Product-Bezel.dmg](https://devimages-cdn.apple.com/design/resources/download/Keynote-Live-Video-Product-Bezel.dmg)
+- [/design/resources/download/Logo-Apple-Health.dmg](https://devimages-cdn.apple.com/design/resources/download/Logo-Apple-Health.dmg)
+- [/design/resources/download/Logo-Game-Center.dmg](https://devimages-cdn.apple.com/design/resources/download/Logo-Game-Center.dmg)
+- [/design/resources/download/Logo-HomeKit.dmg](https://devimages-cdn.apple.com/design/resources/download/Logo-HomeKit.dmg)
+- [/design/resources/download/Logo-Sign-in-with-Apple.dmg](https://devimages-cdn.apple.com/design/resources/download/Logo-Sign-in-with-Apple.dmg)
+- [/design/resources/download/Logo-Siri.dmg](https://devimages-cdn.apple.com/design/resources/download/Logo-Siri.dmg)
+- [/design/resources/download/macOS-12-Design-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/macOS-12-Design-Templates-Sketch.dmg)
+- [/design/resources/download/macOS-12-Design-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/macOS-12-Design-Templates-XD.dmg)
+- [/design/resources/download/macOS-12-Production-Templates-Photoshop.dmg](https://devimages-cdn.apple.com/design/resources/download/macOS-12-Production-Templates-Photoshop.dmg)
+- [/design/resources/download/macOS-12-Production-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/macOS-12-Production-Templates-Sketch.dmg)
+- [/design/resources/download/macOS-12-Production-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/macOS-12-Production-Templates-XD.dmg)
+- [/design/resources/download/NY.dmg](https://devimages-cdn.apple.com/design/resources/download/NY.dmg)
+- [/design/resources/download/SF-Arabic.dmg](https://devimages-cdn.apple.com/design/resources/download/SF-Arabic.dmg)
+- [/design/resources/download/SF-Compact.dmg](https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg)
+- [/design/resources/download/SF-Mono.dmg](https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg)
+- [/design/resources/download/SF-Pro.dmg](https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg)
+- [/design/resources/download/SF-Symbols-3.3.dmg](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-3.3.dmg)
+- [/design/resources/download/SF-Symbols-4.dmg](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-4.dmg)
+- [/design/resources/download/Tech-Design-Template-Apple-Pay-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Apple-Pay-Sketch.dmg)
+- [/design/resources/download/Tech-Design-Template-Apple-Pay-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Apple-Pay-XD.dmg)
+- [/design/resources/download/Tech-Design-Template-Business-Chat-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Business-Chat-Sketch.dmg)
+- [/design/resources/download/Tech-Design-Template-Business-Chat-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Business-Chat-XD.dmg)
+- [/design/resources/download/Tech-Design-Template-Messages-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Messages-Sketch.dmg)
+- [/design/resources/download/Tech-Design-Template-Messages-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Messages-XD.dmg)
+- [/design/resources/download/Tech-Design-Template-Siri-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Siri-Sketch.dmg)
+- [/design/resources/download/Tech-Design-Template-Siri-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Siri-XD.dmg)
+- [/design/resources/download/Tech-Design-Template-SIWA-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-SIWA-Sketch.dmg)
+- [/design/resources/download/Tech-Design-Template-SIWA-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-SIWA-XD.dmg)
+- [/design/resources/download/Tech-Design-Template-Wallet-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Wallet-Sketch.dmg)
+- [/design/resources/download/Tech-Design-Template-Wallet-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/Tech-Design-Template-Wallet-XD.dmg)
+- [/design/resources/download/tvOS-14-Design-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/tvOS-14-Design-Templates-Sketch.dmg)
+- [/design/resources/download/tvOS-14-Design-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/tvOS-14-Design-Templates-XD.dmg)
+- [/design/resources/download/tvOS-14-Production-Templates-Photoshop.dmg](https://devimages-cdn.apple.com/design/resources/download/tvOS-14-Production-Templates-Photoshop.dmg)
+- [/design/resources/download/tvOS-14-Production-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/tvOS-14-Production-Templates-Sketch.dmg)
+- [/design/resources/download/watchOS-5-Design-Templates-Photoshop.dmg](https://devimages-cdn.apple.com/design/resources/download/watchOS-5-Design-Templates-Photoshop.dmg)
+- [/design/resources/download/watchOS-5-Design-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/watchOS-5-Design-Templates-Sketch.dmg)
+- [/design/resources/download/watchOS-5-Design-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/watchOS-5-Design-Templates-XD.dmg)
+- [/design/resources/download/watchOS-5-Production-Templates-Photoshop.dmg](https://devimages-cdn.apple.com/design/resources/download/watchOS-5-Production-Templates-Photoshop.dmg)
+- [/design/resources/download/watchOS-5-Production-Templates-Sketch.dmg](https://devimages-cdn.apple.com/design/resources/download/watchOS-5-Production-Templates-Sketch.dmg)
+- [/design/resources/download/watchOS-5-Production-Templates-XD.dmg](https://devimages-cdn.apple.com/design/resources/download/watchOS-5-Production-Templates-XD.dmg)
