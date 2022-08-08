@@ -2,6 +2,7 @@
 Updated `08082022-153819`
 
 - [**GitHub Repository**](https://github.com/extratone/bezels)
+- [GitHub Pages](https://extratone.github.io/bezels)
 - [URL List Gist](https://gist.github.com/extratone/e5b4d2445a5a268d86365101bb806e62)
 - [Apple Design Resources Shortcut](drafts://open?uuid=6853BE0D-4338-49CD-919C-DF3CEF6654DC)
 - [WTF](https://davidblue.wtf/drafts/50C5B79E-367C-4998-A6C9-4A12E8F5918C.html)
@@ -12,6 +13,8 @@ Updated `08082022-153819`
 ![SF Symbols 3 Preview](https://github.com/extratone/bezels/raw/main/.background_5.png)
 
 An attempt to share Apple's public "[**Design Resources**](https://developer.apple.com/design/resources)" as usable files for those of us without Macs.
+
+- [Apple Design Resources Siri Shortcut](https://davidblue.wtf/drafts/6853BE0D-4338-49CD-919C-DF3CEF6654DC.html) (automate downloading the dmgs.) #i-243
 
 ## iCloud Drive Shared Files
 
